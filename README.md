@@ -49,23 +49,29 @@ dt.predict([[5,6]])
 
 ## Output:
 Data Head:
+
 ![1](https://user-images.githubusercontent.com/93427186/171145673-cf74f5ec-afe1-4568-ba01-8e309be3cb7b.PNG)
 
 
 Data Info:
+
 ![2](https://user-images.githubusercontent.com/93427186/171145716-7747eeec-963b-42ab-a085-1275033102ee.PNG)
 
 
 Data Head after applying LabelEncoder():
+
 ![3](https://user-images.githubusercontent.com/93427186/171145733-94d02a59-50b0-414e-912c-df2abfa612f6.PNG)
 
 MSE:
+
 ![4](https://user-images.githubusercontent.com/93427186/171145749-0a5f4464-193e-4462-ba17-8b64ee3802a5.PNG)
 
 r2:
+
 ![5](https://user-images.githubusercontent.com/93427186/171145758-ec616ec9-3111-424b-97aa-dfb65c8a5bc9.PNG)
 
 Data Prediction:
+
 ![6](https://user-images.githubusercontent.com/93427186/171146103-8863f8ab-368e-4c38-ad3d-54ac19eabed5.PNG)
 
 
